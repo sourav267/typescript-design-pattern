@@ -16,5 +16,20 @@ class Logger {
     }
 }
 
-let logger1 = Logger.getInstance();
-logger1.log("This is the first message");
+// let logger1 = Logger.getInstance();
+// logger1.log("This is the first message");
+
+// class Application {
+//     constructor(private logger: Logger) {
+//     }
+//
+//     run(): void {
+//         this.logger.log('info');
+//         this.logger.log('info1');
+//     }
+// }
+//
+// let logger = Logger.getInstance();
+// let app = new Application(logger);
+//
+// app.run();
