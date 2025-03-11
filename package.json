@@ -1,0 +1,15 @@
+{
+  "name": "typescript-design-patterns",
+  "version": "1.0.0",
+  "description": "typescript-design-patterns",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "prettier": "3.5.3",
+    "typescript": "^5.5.3"
+  },
+  "private": true
+}
