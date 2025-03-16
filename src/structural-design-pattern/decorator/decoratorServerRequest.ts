@@ -34,6 +34,8 @@ class AuthMiddleware extends ServerRequestDecorator {
     }
 }
 
+
+//Client code
 const request = {
     isAuthenticated: false,
     body: "Hello World!"
